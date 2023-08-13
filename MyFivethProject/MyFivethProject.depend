@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686644489 source:c:\users\itlogiko\desktop\c++ codes\myfivethproject\myfivethclass.cpp
+	"myfivethclass.h"
+	<iostream>
+
+1686644489 c:\users\itlogiko\desktop\c++ codes\myfivethproject\myfivethclass.h
+
+1686643254 source:c:\users\itlogiko\desktop\c++ codes\myfivethproject\main.cpp
+	<iostream>
+	"myfivethclass.h"
+

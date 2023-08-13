@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686570590 source:c:\users\itlogiko\desktop\c++ codes\myfirstproject\main.cpp
+	<iostream>
+	"myfirstclass.h"
+
+1686570818 c:\users\itlogiko\desktop\c++ codes\myfirstproject\myfirstclass.h
+	"myfirstclass.h"
+
+1686570922 source:c:\users\itlogiko\desktop\c++ codes\myfirstproject\myfirstclass.cpp
+	"myfirstclass.h"
+	<iostream>
+
